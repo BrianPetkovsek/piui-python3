@@ -11,12 +11,6 @@ Demo
 [![Demo Video Screengrab](http://blog.davidsingleton.org/static/ytpiui.png)](http://youtu.be/2ay0vuW6aNY)
 
 
-Install PiUi
-============
-```
-pip install piui
-```
-
 Setup Instructions (to prepare your Raspberry Pi)
 =================================================
 
